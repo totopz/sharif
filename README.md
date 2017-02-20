@@ -1,4 +1,11 @@
-twitter
+Twitter task
 =======
 
-A Symfony project created on February 20, 2017, 8:21 pm.
+There is a console command that gets the stats:
+/src/AppBundle/Command/GetTwitterStatisticsCommand.php
+
+There is an API call:
+/api/twitter/statistics?start=1483228800&end=1484845536
+
+There is an API documentation:
+/api/doc
